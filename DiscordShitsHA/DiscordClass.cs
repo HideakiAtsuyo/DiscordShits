@@ -1,17 +1,14 @@
-﻿using Leaf.xNet;
-using System;
-using System.Windows.Forms;
-using System.Collections.Specialized;
-using System.Net;
-using System.Diagnostics;
+using Crayon;
 using Discord;
 using Discord.Gateway;
-using System.Threading;
-using Crayon;
+using Leaf.xNet;
+using System;
+using System.Collections.Specialized;
+using System.Diagnostics;
 using System.Drawing;
-using System.Runtime.Remoting.Lifetime;
-using System.Net.WebSockets;
-using System.Linq;
+using System.Net;
+using System.Threading;
+using System.Windows.Forms;
 
 namespace DiscordShitsHA
 {
